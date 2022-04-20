@@ -86,10 +86,13 @@ github.com/Azure/go-autorest/logger v0.2.0/go.mod h1:T9E3cAhj2VqvPOtCYAvby9aBXkZ
 github.com/Azure/go-autorest/tracing v0.5.0/go.mod h1:r/s2XiOKccPW3HrqB+W0TQzfbtp2fGCgRFtBroKn4Dk=
 github.com/Azure/go-autorest/tracing v0.6.0/go.mod h1:+vhtPC754Xsa23ID7GlGsrdKBpUA79WCAKPPZVC2DeU=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
+github.com/BurntSushi/toml v1.0.0/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbicEuybxQ=
 github.com/BurntSushi/toml v1.1.0/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbicEuybxQ=
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/ChainSafe/go-schnorrkel v0.0.0-20200405005733-88cbf1b4c40d h1:nalkkPQcITbvhmL4+C4cKA87NW0tfm3Kl9VXRoPywFg=
 github.com/ChainSafe/go-schnorrkel v0.0.0-20200405005733-88cbf1b4c40d/go.mod h1:URdX5+vg25ts3aCh8H5IFZybJYKWhJHYMTnf+ULtoC4=
+github.com/CosmWasm/wasmvm v1.0.0-beta7 h1:hCa6P8tUTh8viabzeXfede5iPlopSav9Guh+hupXjvU=
+github.com/CosmWasm/wasmvm v1.0.0-beta7/go.mod h1:y+yd9piV8KlrB7ISRZz1sDwH4UVm4Q9rEX9501dBNog=
 github.com/DATA-DOG/go-sqlmock v1.5.0/go.mod h1:f/Ixk793poVmq4qj/V1dPUg2JEAKC73Q5eFN3EC/SaM=
 github.com/DataDog/datadog-go v3.2.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
 github.com/DataDog/zstd v1.4.1/go.mod h1:1jcaCB/ufaK+sKp1NBhlGmpz41jOoPQ35bpF36t7BBo=
@@ -139,6 +142,7 @@ github.com/Workiva/go-datastructures v1.0.53 h1:J6Y/52yX10Xc5JjXmGtWoSSxs3mZnGSa
 github.com/Workiva/go-datastructures v1.0.53/go.mod h1:1yZL+zfsztete+ePzZz/Zb1/t5BnDuE2Ya2MMGhzP6A=
 github.com/Zilliqa/gozilliqa-sdk v1.2.1-0.20201201074141-dd0ecada1be6/go.mod h1:eSYp2T6f0apnuW8TzhV3f6Aff2SE8Dwio++U4ha4yEM=
 github.com/adlio/schema v1.1.13/go.mod h1:L5Z7tw+7lRK1Fnpi/LT/ooCP1elkXn0krMWBQHUhEDE=
+github.com/adlio/schema v1.2.3/go.mod h1:nD7ZWmMMbwU12Pqwg+qL0rTvHBrBXfNz+5UQxTfy38M=
 github.com/adlio/schema v1.3.0 h1:eSVYLxYWbm/6ReZBCkLw4Fz7uqC+ZNoPvA39bOwi52A=
 github.com/adlio/schema v1.3.0/go.mod h1:51QzxkpeFs6lRY11kPye26IaFPOV+HqEj01t5aXXKfs=
 github.com/aead/siphash v1.0.1/go.mod h1:Nywa3cDsYNNK3gaciGTWPwHt0wlpNV15vwmswBAUSII=
@@ -1027,6 +1031,8 @@ github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e/go.mod h1:zD1mROLA
 github.com/nishanths/predeclared v0.0.0-20200524104333-86fad755b4d3/go.mod h1:nt3d53pc1VYcphSCIaYAJtnPYnr3Zyn8fMq2wvPGPso=
 github.com/notional-labs/tinyport v1.1.1 h1:GGYHuQUrHOzl2E1fRXAzubzIihtUJyXFA1aa+KBzfZM=
 github.com/notional-labs/tinyport v1.1.1/go.mod h1:cMmRGIeefm0u1rCeqAkOdGTgX2LKhm0tNWedtnZn11Y=
+github.com/notional-labs/wasmd v0.24.1-0.20220323012521-50daae17bc74 h1:1U23+iyWN7BRnXdM68MQmTw/qO1GBK1r49CC825+uuI=
+github.com/notional-labs/wasmd v0.24.1-0.20220323012521-50daae17bc74/go.mod h1:aU3B2qJfPDOHrpKb+E7N7tvZ8BbYKt61YCnqL5iGL+o=
 github.com/nxadm/tail v1.4.4/go.mod h1:kenIhsEOeOJmVchQTgglprH7qJGnHDVpk1VPCcaMI8A=
 github.com/nxadm/tail v1.4.8 h1:nPr65rt6Y5JFSKQO7qToXr7pePgD6Gwiw05lkbyAQTE=
 github.com/nxadm/tail v1.4.8/go.mod h1:+ncqLTQzXmGhMZNUePPaPqPvBxHAIsmXswZKocGu+AU=
@@ -1343,6 +1349,7 @@ github.com/tendermint/flutter/v2 v2.0.3/go.mod h1:hnaVhWhzv2Od1LqZFWrRKwiOHeMons
 github.com/tendermint/go-amino v0.16.0 h1:GyhmgQKvqF82e2oZeuMSp9JTN0N09emoSZlb2lyGa2E=
 github.com/tendermint/go-amino v0.16.0/go.mod h1:TQU0M1i/ImAo+tYpZi73AU3V/dKeCoMC9Sphe2ZwGME=
 github.com/tendermint/tendermint v0.34.14/go.mod h1:FrwVm3TvsVicI9Z7FlucHV6Znfd5KBc/Lpp69cCwtk0=
+github.com/tendermint/tendermint v0.34.16/go.mod h1:n0G22GynfeXTYbrn2IeLeB+oqsAe6R6jl4vZxZ1Y8F4=
 github.com/tendermint/tendermint v0.34.19 h1:y0P1qI5wSa9IRuhKnTDA6IUcOrLi1hXJuALR+R7HFEk=
 github.com/tendermint/tendermint v0.34.19/go.mod h1:R5+wgIwSxMdKQcmOaeudL0Cjkr3HDkhpcdum6VeU3R4=
 github.com/tendermint/tm-db v0.6.4/go.mod h1:dptYhIpJ2M5kUuenLr+Yyf3zQOv1SgBZcl8/BmWlMBw=
@@ -1482,8 +1489,9 @@ golang.org/x/crypto v0.0.0-20210314154223-e6e6c4f2bb5b/go.mod h1:T9bdIzuCu7OtxOm
 golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2/go.mod h1:T9bdIzuCu7OtxOm1hfPfRQxPLYneinmdGuTeoZ9dtd4=
 golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e/go.mod h1:GvvjBRRGRdwPK5ydBHafDWAxML/pGHZbMvKqRZ5+Abc=
 golang.org/x/crypto v0.0.0-20210817164053-32db794688a5/go.mod h1:GvvjBRRGRdwPK5ydBHafDWAxML/pGHZbMvKqRZ5+Abc=
-golang.org/x/crypto v0.0.0-20210915214749-c084706c2272 h1:3erb+vDS8lU1sxfDHF4/hhWyaXnhIaO+7RgL4fDZORA=
 golang.org/x/crypto v0.0.0-20210915214749-c084706c2272/go.mod h1:GvvjBRRGRdwPK5ydBHafDWAxML/pGHZbMvKqRZ5+Abc=
+golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 h1:7I4JAnoQBe7ZtJcBaYHi5UtiO8tQHbUSXxL+pnGRANg=
+golang.org/x/crypto v0.0.0-20210921155107-089bfa567519/go.mod h1:GvvjBRRGRdwPK5ydBHafDWAxML/pGHZbMvKqRZ5+Abc=
 golang.org/x/exp v0.0.0-20180321215751-8460e604b9de/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
 golang.org/x/exp v0.0.0-20180807140117-3d87b88a115f/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
 golang.org/x/exp v0.0.0-20190121172915-509febef88a4/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
