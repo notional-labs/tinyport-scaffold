@@ -1,0 +1,14 @@
+syntax = "proto3";
+package notionallabs.tinyportscaffold.tinyportscaffold;
+
+import "gogoproto/gogo.proto";
+import "tinyportscaffold/params.proto";
+// this line is used by tinyport scaffolding # genesis/proto/import
+
+option go_package = "github.com/notional-labs/tinyport-scaffold/x/tinyportscaffold/types";
+
+// GenesisState defines the tinyportscaffold module's genesis state.
+message GenesisState {
+  Params params = 1 [(gogoproto.nullable) = false];
+  // this line is used by tinyport scaffolding # genesis/proto/state
+}
